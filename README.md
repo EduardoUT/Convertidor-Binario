@@ -1,2 +1,2 @@
 # Proyectos en Java :coffee:
-Espacio personal para proyectos grandes y pequeños he desarrollado en Java.
+Espacio personal para proyectos grandes y pequeños  que he desarrollado en Java.
