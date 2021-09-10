@@ -1,2 +1,2 @@
-# ConvertidorBinario
-Programa en Java que obtiene un número entero por el usuario y devuelve su valor en Binario.
+# Proyectos en Java
+Espacio personal para proyectos grandes y pequeños he desarrollado en Java.
